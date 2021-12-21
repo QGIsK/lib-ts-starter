@@ -50,7 +50,7 @@ const doesInclude = (string: string, includes: string): boolean => {
     return String(string).includes(includes);
 };
 
-export default {
+export {
     isString,
     isStringEmpty,
     isDate,
