@@ -49,12 +49,4 @@ const doesInclude = (string: string, includes: string): boolean => {
     return String(string).includes(includes);
 };
 
-export {
-    isString,
-    isStringEmpty,
-    isDate,
-    isObject,
-    isNumber,
-    isArray,
-    doesInclude,
-};
+export {isString, isStringEmpty, isDate, isObject, isNumber, isArray, doesInclude};
