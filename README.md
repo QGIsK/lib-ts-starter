@@ -4,7 +4,7 @@
 
 ## Using this template
 
--   Search `lib-ts` and replace it with your custom package name.
+-   Search `lib-ts-starter` and replace it with your custom package name.
 -   Search `QGIsK` and replace it with your name.
 
 Features:
@@ -18,6 +18,5 @@ Features:
 ```bash
 npm i @qgisk/lib-ts-starter
 ```
-
 
 [MIT](https://github.com/QGIsK/lib-ts-starter/blob/main/LICENSE) Demian
