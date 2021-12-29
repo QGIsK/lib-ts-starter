@@ -2,8 +2,7 @@ name: Upload to DO Spaces
 
 on:
     workflow_dispatch:
-    release:
-        types: [created]
+
 jobs:
     test:
         runs-on: ubuntu-latest
